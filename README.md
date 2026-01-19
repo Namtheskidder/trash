@@ -1,2 +1,2 @@
 note:
-gofile.io/d/LpqUmK
+[gofile.io/d/omthex](https://gofile.io/d/omTHEX)
